@@ -1,2 +1,4 @@
 # Hexart.In-Task1
 Flipkart Reviews Sentiment Analysis using Python
+
+Flipkart Reviews Sentiment Analysis using Python is a collection of customer feedback and ratings for various products available on the Flipkart e-commerce platform. The data has been analyzed using Sentiment Analysis, a process of determining the emotional tone of a piece of text. The analysis categorizes each review as either positive, negative, or neutral, based on the sentiment expressed in the customer's words. This information provides valuable insights into consumer opinions and can be used to make informed business decisions, such as improving product quality or addressing customer complaints. The dataset can be useful for businesses, researchers, and data analysts in understanding consumer behavior and improving the online shopping experience
